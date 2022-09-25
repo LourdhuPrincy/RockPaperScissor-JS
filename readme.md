@@ -15,3 +15,5 @@ Process of this game:
 - I have set 10 moves for this game and for each move by comparing the user and computer's option winner will be selected and score of the winner will be added in the score board.
 - After the 10th move the game is over and the overall winner will be announced.
 - I have created try again button to restart the game.
+
+[live link](https://roc-pap-sis-js.netlify.app/)
